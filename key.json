@@ -37,6 +37,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "SHANTO-YDP0ER": {
+      "hwid": "B5BB95B523940D75",
+      "expireDate": "2026-06-08",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
